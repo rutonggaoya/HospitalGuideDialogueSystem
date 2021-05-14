@@ -1,0 +1,85 @@
+{
+  "choose_age": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3,
+    "confused_with": {}
+  },
+  "deny": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 15,
+    "confused_with": {}
+  },
+  "bye": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 22,
+    "confused_with": {}
+  },
+  "complaint": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1144,
+    "confused_with": {}
+  },
+  "choose_sex": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2,
+    "confused_with": {}
+  },
+  "chitchat": {
+    "precision": 0.96875,
+    "recall": 1.0,
+    "f1-score": 0.9841269841269841,
+    "support": 31,
+    "confused_with": {}
+  },
+  "stop": {
+    "precision": 1.0,
+    "recall": 0.9444444444444444,
+    "f1-score": 0.9714285714285714,
+    "support": 18,
+    "confused_with": {
+      "chitchat": 1
+    }
+  },
+  "greet": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 22,
+    "confused_with": {}
+  },
+  "affirm": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "micro avg": {
+    "precision": 0.9992169146436961,
+    "recall": 0.9992169146436961,
+    "f1-score": 0.9992169146436961,
+    "support": 1277
+  },
+  "macro avg": {
+    "precision": 0.9965277777777778,
+    "recall": 0.9938271604938271,
+    "f1-score": 0.9950617283950618,
+    "support": 1277
+  },
+  "weighted avg": {
+    "precision": 0.9992413860610807,
+    "recall": 0.9992169146436961,
+    "f1-score": 0.99921194267318,
+    "support": 1277
+  }
+}

@@ -1,0 +1,40 @@
+language: "zh"
+
+pipeline:
+- name: "JiebaTokenizer"
+  dictionary_path: "external_data/lookup"
+- name: "CountVectorsFeaturizer"
+  token_pattern: '(?u)\b\w+\b'
+- name: "EmbeddingIntentClassifier"
+  epochs: 120
+  droprate: 0.1
+  config_proto: {
+    "device_count": 4,
+    "inter_op_parallelism_threads": 0,
+    "intra_op_parallelism_threads": 0,
+    "allow_growth": True
+  }
+- name: "extractor.bilstm_crf_entity_extractor.BilstmCRFEntityExtractor"
+  lr: 0.002
+  model_type: "bilstm"
+#  model_type: "idcnn"
+  dropout_keep: 0.3
+  config_proto: {
+    "device_count": 4,
+    "inter_op_parallelism_threads": 0,
+    "intra_op_parallelism_threads": 0,
+    "allow_growth": True
+  }
+
+policies:
+  - name: EmbeddingPolicy
+    max_history: 5
+    epochs: 50
+  - name: MemoizationPolicy
+    max_history: 5
+  - name: FallbackPolicy
+    nlu_threshold: 0.4
+    core_threshold: 0.3
+    fallback_action_name: 'action_default_fallback'
+  - name: MappingPolicy
+

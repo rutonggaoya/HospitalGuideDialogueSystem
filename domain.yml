@@ -1,0 +1,94 @@
+intents:
+  - complaint
+  - greet
+  - bye
+  - affirm
+  - deny
+  - chitchat:
+      triggers: action_chitchat
+  - stop
+  - choose_sex
+  - choose_age
+
+
+slots:
+  age:
+    type: categorical
+    values:
+      - 儿童
+      - 老人
+      - 其他
+  sex:
+    type: categorical
+    values:
+      - 男
+      - 女
+  symptomList:
+    type: list
+  diseaseRateList:
+    type: unfeaturized
+  departmentRateList:
+    type: unfeaturized
+  newSymptomList:
+    type: list
+  isUpdated:
+    type: bool
+  rewardRateList:
+    type: unfeaturized
+  failedSymptomList:
+    type: unfeaturized
+
+entities:
+  - symptom
+  - age
+  - sex
+
+
+templates:
+  utter_greet:
+    - text: "您好，我是智能导诊助手，可以提供诊断和科室推荐服务。请问现在开始导诊服务吗？"
+    - text: "嗨，我是智能导诊小助手，可以帮你预先诊断和科室推荐哦。现在开始导诊吗，亲？"
+  utter_ask_symptom:
+    - text: "请问您有什么症状嘛？"
+    - text: "麻烦您描述一下具体症状？"
+  utter_ask_more_symptoms:
+    - text: "关于症状您可以说的细致一点吗？"
+    - text: "对不起，症状能不能再说的具体一点呢？"
+  utter_ask_age:
+    - text: "您的年龄是？"
+    - text: "您的年龄属于？"
+  utter_ask_sex:
+    - text: "您的性别是？"
+    - text: "您是男性还是女性？"
+  utter_bye:
+    - text: "本次导诊结束，感谢您使用智能导诊助手，再见！"
+    - text: "导诊结束，撒花嘻嘻嘻！"
+  utter_default:
+    - text: "对不起，我不太明白，能否再说一次或细致一点？实在抱歉。"
+    - text: "emmm...我不太懂您的意思了，可否明确一点？"
+  utter_chitchat:
+    - text: "呃呃呃呃呃..."
+    - text: "您这是在尬聊吗？"
+    - text: "本系统不太会闲聊哦，只会为您导诊。"
+
+
+actions:
+  - action_get_information
+  - action_diagnose
+  - action_set_age
+  - action_set_sex
+  - action_set_symptoms
+  - action_show_result
+  - action_set_new_symptom
+  - action_chitchat
+  - utter_greet
+  - utter_ask_symptom
+  - utter_ask_more_symptoms
+  - utter_ask_age
+  - utter_ask_sex
+  - utter_bye
+  - utter_default
+
+session_config:
+  carry_over_slots_to_new_session: true
+  session_expiration_time: 60

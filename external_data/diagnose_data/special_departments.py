@@ -1,0 +1,5 @@
+oldDepartment = ['老年病内科']
+childDepartment = ['儿科', '小儿外科']
+manDepartment = []
+womanDeparment = ['妇产科']
+reprocessingDepartment = ['急诊医学科', '麻醉科', '中医科', '预防保健科', '医学影像科']

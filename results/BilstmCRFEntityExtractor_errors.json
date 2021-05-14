@@ -1,0 +1,8172 @@
+[
+  {
+    "text": "分不清脑痛还是眼痛还是牙痛头痛",
+    "entities": [
+      {
+        "start": 7,
+        "end": 9,
+        "value": "眼痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "value": "头痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "眼痛",
+        "start": 7,
+        "end": 9,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "牙痛",
+        "start": 11,
+        "end": 13,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "情绪低落一开始出现特别嗜睡的情况平时经常感到头晕感觉胸闷而且比平时多疑依然头晕头疼但比独处的时候情况好很多晚上多梦请问这样是不是焦虑症我做过几遍SAS的焦虑测试都说我是中度焦虑胸闷头晕脸红",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "情绪低落",
+        "entity": "symptom"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "value": "嗜睡",
+        "entity": "symptom"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "value": "头晕",
+        "entity": "symptom"
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "value": "胸闷",
+        "entity": "symptom"
+      },
+      {
+        "start": 33,
+        "end": 35,
+        "value": "多疑",
+        "entity": "symptom"
+      },
+      {
+        "start": 55,
+        "end": 57,
+        "value": "多梦",
+        "entity": "symptom"
+      },
+      {
+        "start": 64,
+        "end": 66,
+        "value": "焦虑",
+        "entity": "symptom"
+      },
+      {
+        "start": 92,
+        "end": 94,
+        "value": "脸红",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "情绪低落",
+        "start": 0,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "嗜睡",
+        "start": 11,
+        "end": 13,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "头晕",
+        "start": 22,
+        "end": 24,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "多疑",
+        "start": 33,
+        "end": 35,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "多梦",
+        "start": 55,
+        "end": 57,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "焦虑",
+        "start": 64,
+        "end": 66,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "最近感到疲劳腿疼腿肚子酸胀浑身酸痛无力",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "value": "疲劳",
+        "entity": "symptom"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "value": "浑身酸痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "value": "无力",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "疲劳",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "浑身酸痛",
+        "start": 13,
+        "end": 17,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "现在发低烧连续发烧不退",
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "value": "低烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "value": "发烧",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "发低烧",
+        "start": 2,
+        "end": 5,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "宝宝脸红不发烧是什么原因",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "脸红",
+        "entity": "symptom"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "value": "发烧",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "脸红",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "2018年拍片医生说肺部有肺结核钙化后的阴影怀疑是很久以前的病灶",
+    "entities": [
+      {
+        "start": 16,
+        "end": 18,
+        "value": "钙化",
+        "entity": "symptom"
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "value": "病灶",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "钙化",
+        "start": 16,
+        "end": 18,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "想请教医生是否是硬下疳阴毛处出现囊肿",
+    "entities": [
+      {
+        "start": 8,
+        "end": 11,
+        "value": "硬下疳",
+        "entity": "symptom"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "value": "囊肿",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "硬下疳",
+        "start": 8,
+        "end": 11,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "失眠多梦还有焦虑郁闷入睡困难易醒怎么办",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "失眠",
+        "entity": "symptom"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "value": "多梦",
+        "entity": "symptom"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "value": "焦虑",
+        "entity": "symptom"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "value": "入睡困难",
+        "entity": "symptom"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "value": "易醒",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "失眠",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "多梦",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "焦虑",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "入睡困难",
+        "start": 10,
+        "end": 14,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "产后紫癜皮肤上有小点并伴有关节痛这两天胃部绞痛了",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "紫癜",
+        "entity": "symptom"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "value": "关节痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "value": "绞痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "紫癜",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "关节痛",
+        "start": 13,
+        "end": 16,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我孩子特别容易紧张焦虑",
+    "entities": [
+      {
+        "start": 7,
+        "end": 9,
+        "value": "紧张",
+        "entity": "symptom"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "value": "焦虑",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "紧张",
+        "start": 7,
+        "end": 9,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "一个多月反反复复出现头晕头痛昏昏沉沉有时候恶心想吐四肢无力耳鸣容易烦躁",
+    "entities": [
+      {
+        "start": 10,
+        "end": 12,
+        "value": "头晕",
+        "entity": "symptom"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "value": "头痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "value": "恶心",
+        "entity": "symptom"
+      },
+      {
+        "start": 25,
+        "end": 29,
+        "value": "四肢无力",
+        "entity": "symptom"
+      },
+      {
+        "start": 29,
+        "end": 31,
+        "value": "耳鸣",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "头晕",
+        "start": 10,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "头痛",
+        "start": 12,
+        "end": 14,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "昏昏",
+        "start": 14,
+        "end": 16,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "恶心",
+        "start": 21,
+        "end": 23,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "四肢无力",
+        "start": 25,
+        "end": 29,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "耳鸣",
+        "start": 29,
+        "end": 31,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我总是有过度自恋的情况怎么样才能走出自恋的幻觉呢",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "value": "自恋",
+        "entity": "symptom"
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "value": "幻觉",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "幻觉",
+        "start": 21,
+        "end": 23,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "感冒发烧5天吃了布洛芬没退烧阿莫西林第三天打了喜炎平两支第四天吃了一次奥司他韦晚上两小时内上眼皮紫癜还没退烧这几天白带偏多",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "发烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 48,
+        "end": 50,
+        "value": "紫癜",
+        "entity": "symptom"
+      },
+      {
+        "start": 57,
+        "end": 59,
+        "value": "白带",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "发烧",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "紫癜",
+        "start": 48,
+        "end": 50,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "手掌发红就是肝掌吗",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "value": "肝掌",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "发红",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "息肉可以肉眼看到到吗私处瘙痒",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "息肉",
+        "entity": "symptom"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "value": "瘙痒",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "息肉",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "最近生殖器总是疼痛长了一些疱疹尤其是在进行性生活的时候",
+    "entities": [
+      {
+        "start": 7,
+        "end": 9,
+        "value": "疼痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "value": "疱疹",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "疼痛",
+        "start": 7,
+        "end": 9,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我朋友有抑郁症昨天失眠了",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "value": "抑郁",
+        "entity": "symptom"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "value": "失眠",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "抑郁",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "五岁小孩感冒咳嗽了三天症状是早晚咳嗽鼻塞和流鼻涕。",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "value": "咳嗽",
+        "entity": "symptom"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "value": "鼻塞",
+        "entity": "symptom"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "value": "流鼻涕",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "咳嗽",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "前两天急性扁桃体咽喉炎吃了药然后今天早上开始病情好了很多但是感觉呼吸困难肺不舒服晚上呼吸正常肺部有灼热感不咳嗽不吐痰伴有恶心晚上呼吸正常肺部有灼热感不咳嗽不吐痰伴有恶心现在只是恶心胃难受呼吸困难扁桃体炎咽喉炎呼吸困难扁桃体炎咽喉炎",
+    "entities": [
+      {
+        "start": 8,
+        "end": 11,
+        "value": "咽喉炎",
+        "entity": "symptom"
+      },
+      {
+        "start": 32,
+        "end": 36,
+        "value": "呼吸困难",
+        "entity": "symptom"
+      },
+      {
+        "start": 53,
+        "end": 55,
+        "value": "咳嗽",
+        "entity": "symptom"
+      },
+      {
+        "start": 60,
+        "end": 62,
+        "value": "恶心",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "咽喉炎",
+        "start": 8,
+        "end": 11,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "呼吸困难",
+        "start": 32,
+        "end": 36,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "恶心",
+        "start": 60,
+        "end": 62,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "不知道是睾丸痛还是那个韧带痛是不是有静脉曲张大腿根部疼痛怎么办",
+    "entities": [
+      {
+        "start": 18,
+        "end": 22,
+        "value": "静脉曲张",
+        "entity": "symptom"
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "value": "疼痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "丸痛",
+        "start": 5,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "韧带",
+        "start": 11,
+        "end": 13,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "静脉曲张",
+        "start": 18,
+        "end": 22,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我发现的就是感觉自己左胸的地方还有左手都会有疼痛的感觉所以想问一问左胸痛和左手酸痛是怎么回事所以想问一问左胸痛和左手酸痛是怎么回事所以想问一问左胸痛和左手酸痛是怎么回事左胸痛和左手酸痛是怎么回事左胸痛和左手酸痛是怎么回事左胸痛和左手酸痛是怎么回事",
+    "entities": [
+      {
+        "start": 22,
+        "end": 24,
+        "value": "疼痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 33,
+        "end": 36,
+        "value": "左胸痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 38,
+        "end": 40,
+        "value": "手酸",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "疼痛",
+        "start": 22,
+        "end": 24,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "不能动于是缝合出院后在家期间中药治疗盲吃靶向药治疗治疗和艾灸特罗凯一个月之后换易瑞沙现在能吃能动有点咳嗽精神还可以就是偶尔咳嗽厉害切开那位置就是肋骨÷凸起来一块能摸到会有点扯着疼担心转移昨天去当地医院拍片片子如下现在想去贵医院做个复查因为当地医院拍的不好县城的想问问您那边对于我父亲的情况除了化疗有更好的方案吗怎么预约您的号这里上传不了图片就是肋骨那里有块肉肺癌开刀缝合处骨头痛是转移了吗",
+    "entities": [
+      {
+        "start": 50,
+        "end": 52,
+        "value": "咳嗽",
+        "entity": "symptom"
+      },
+      {
+        "start": 187,
+        "end": 189,
+        "value": "头痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "咳嗽",
+        "start": 50,
+        "end": 52,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "咳嗽",
+        "start": 61,
+        "end": 63,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "头痛",
+        "start": 187,
+        "end": 189,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "从2005年开始就查出有乳腺结节并检查出有好几个边界不清的结节多发性乳腺结节",
+    "entities": [
+      {
+        "start": 14,
+        "end": 16,
+        "value": "结节",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "结节",
+        "start": 14,
+        "end": 16,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "结节",
+        "start": 29,
+        "end": 31,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "今天早上上厕所我发现我竟然尿血尿了请问第一次尿血是怎么回事第一次尿血是怎么回事",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "value": "尿血",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "尿血尿",
+        "start": 14,
+        "end": 16,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "常见的强迫观念和强迫行为有哪些常见的强迫观念和强迫行为有哪些常见的强迫观念和强迫行为有哪些常见的强迫观念和强迫行为有哪些",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "value": "强迫观念",
+        "entity": "symptom"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "value": "强迫行为",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "强迫观念",
+        "start": 3,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我五天前开始尿痛虽然症状好了许多可还是有尿频尿痛尿不尽的感觉虽然症状好了许多可还是有尿频尿痛尿不尽的感觉虽然症状好了许多可还是有尿频尿痛尿不尽的感觉请问我这是什么原因造成的尿频尿痛啊请问我这是什么原因造成的尿频尿痛啊我五天前开始尿痛",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "value": "尿痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "value": "尿频",
+        "entity": "symptom"
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "value": "尿不尽",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "尿痛",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "尿频",
+        "start": 20,
+        "end": 22,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "尿痛",
+        "start": 22,
+        "end": 24,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "尿不尽",
+        "start": 24,
+        "end": 27,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "头晕脑胀意识朦胧像是梦游一样头晕脑胀意识朦胧像是梦游一样多梦睡不好容易饿总是感到累不想动口渴想喝水容易饿总是感到累不想动口渴想喝水头晕脑胀意识朦胧像是梦游一样头晕脑胀意识朦胧像是梦游一样",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "头晕",
+        "entity": "symptom"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "value": "梦游",
+        "entity": "symptom"
+      },
+      {
+        "start": 28,
+        "end": 30,
+        "value": "多梦",
+        "entity": "symptom"
+      },
+      {
+        "start": 34,
+        "end": 36,
+        "value": "易饿",
+        "entity": "symptom"
+      },
+      {
+        "start": 44,
+        "end": 46,
+        "value": "口渴",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "头晕",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "梦游",
+        "start": 10,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "梦游",
+        "start": 24,
+        "end": 26,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "多梦",
+        "start": 28,
+        "end": 30,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我的带状疱疹治好了可留下了神经痛的后遗症我的带状疱疹治好了可留下了神经痛的后遗症那带状疱疹后遗神经痛吃什么药那带状疱疹后遗神经痛吃什么药带状疱疹后遗神经痛吃什么药带状疱疹后遗神经痛吃什么药",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "value": "疱疹",
+        "entity": "symptom"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "value": "神经痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "疱疹",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "孩子一到晚上就发烧连续两天了去医院看了就给开了点消炎药和咳嗽药孩子现在咳嗽一发烧愁人有化验单孩子一到晚上就发烧有点咳嗽有化验单孩子一到晚上就发烧有点咳嗽有化验单",
+    "entities": [
+      {
+        "start": 7,
+        "end": 9,
+        "value": "发烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 28,
+        "end": 30,
+        "value": "咳嗽",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "发烧",
+        "start": 7,
+        "end": 9,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "两个星期前去医院检查发现是乳腺囊性结节2类乳头有时候感觉脱皮请问这是乳腺囊性结节的正常症状吗两个星期前去医院检查发现是乳腺囊性结节2",
+    "entities": [
+      {
+        "start": 17,
+        "end": 19,
+        "value": "结节",
+        "entity": "symptom"
+      },
+      {
+        "start": 28,
+        "end": 30,
+        "value": "脱皮",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "结节",
+        "start": 17,
+        "end": 19,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "前段时间时间小孩感冒发烧咳嗽前段时间时间小孩感冒发烧咳嗽目前现在一直处发烧咳嗽气喘肺部感染炎症比较严重前段时间时间小孩感冒发烧咳嗽前段时间时间小孩感冒发烧咳嗽",
+    "entities": [
+      {
+        "start": 10,
+        "end": 12,
+        "value": "发烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "value": "咳嗽",
+        "entity": "symptom"
+      },
+      {
+        "start": 39,
+        "end": 41,
+        "value": "气喘",
+        "entity": "symptom"
+      },
+      {
+        "start": 41,
+        "end": 45,
+        "value": "肺部感染",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "发烧",
+        "start": 10,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "咳嗽",
+        "start": 12,
+        "end": 14,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "小腹有些疼痛小便有尿血怎么回事",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "value": "疼痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "value": "尿血",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "疼痛",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "汗多体虚干重活腰疼怎么治疗汗多体虚干重活腰疼怎么治疗",
+    "entities": [
+      {
+        "start": 7,
+        "end": 9,
+        "value": "腰疼",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "汗",
+        "start": 0,
+        "end": 1,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "腰疼",
+        "start": 7,
+        "end": 9,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "19岁女性两周前有尿频尿急尿不尽尿痛尿血症状去医院检查后医生开药治疗一周后尿检单出来我没问医生请医生看下我还有没有问题了19岁女性两周前有尿频尿急尿不尽尿痛尿血症状去医院检查后医生开药治疗一周后尿检单出来我没问医生请医生看下我还有没有问题了19岁女性两周前有尿频尿急尿不尽尿痛尿血症状去医院检查后医生开药治疗一周后尿检单出来我没问医生请医生看下我还有没有问题了19岁女性两周前有尿频尿急尿不尽尿痛尿血症状去医院检查后医生开药治疗一周后尿检单出来我没问医生请医生看下我还有没有问题了19岁女性两周前有尿频尿急尿不尽尿痛尿血症状去医院检查后医生开药治疗一周后尿检单出来我没问医生请医生看下我还有没有问题了19岁女性两周前有尿频尿急尿不尽尿痛尿血19岁女性两周前有尿频尿急尿不尽尿痛尿血19岁女性两周前有尿频尿急尿不尽尿痛尿血19岁女性两周前有尿频尿急尿不尽尿痛尿血19岁女性两周前有尿频尿急尿不尽尿痛尿血",
+    "entities": [
+      {
+        "start": 9,
+        "end": 11,
+        "value": "尿频",
+        "entity": "symptom"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "value": "尿急",
+        "entity": "symptom"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "value": "尿不尽",
+        "entity": "symptom"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "value": "尿痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "value": "尿血",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "19",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "尿频",
+        "start": 9,
+        "end": 11,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "尿急",
+        "start": 11,
+        "end": 13,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "尿不尽",
+        "start": 13,
+        "end": 16,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "后来夜里上厕所发现有刺痛感请问尿血怎么回事尿血怎么回事",
+    "entities": [
+      {
+        "start": 10,
+        "end": 12,
+        "value": "刺痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "value": "尿血",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "刺痛",
+        "start": 10,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "时常情绪低落经常失眠偶尔有厌食时常情绪低落经常失眠",
+    "entities": [
+      {
+        "start": 2,
+        "end": 6,
+        "value": "情绪低落",
+        "entity": "symptom"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "value": "失眠",
+        "entity": "symptom"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "value": "厌食",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "情绪低落",
+        "start": 2,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "失眠",
+        "start": 8,
+        "end": 10,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "前两天在妊娠纹这里发现一个红色的脓包前两天在妊娠纹这里发现一个红色的脓包妊娠纹上长了一个脓包妊娠纹上长了一个脓包",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "value": "妊娠纹",
+        "entity": "symptom"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "value": "脓包",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "妊娠纹",
+        "start": 4,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "这几天一直有发烧的情况出现发烧请问是否有淋病",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "value": "发烧",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "发烧",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "发烧",
+        "start": 13,
+        "end": 15,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我想问一下我有单纯性疱疹病毒怎么治疗好屁股上上火或者抵抗力下降就会长疱疹出来又痛又痒让人坐立不安单纯性疱疹病毒怎么可以彻底治疗",
+    "entities": [
+      {
+        "start": 10,
+        "end": 12,
+        "value": "疱疹",
+        "entity": "symptom"
+      },
+      {
+        "start": 44,
+        "end": 48,
+        "value": "坐立不安",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "疱疹",
+        "start": 10,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我咳嗽有二十多天了我朋友以前也是咳嗽快一个月了我咳嗽有二十多天了",
+    "entities": [
+      {
+        "start": 1,
+        "end": 3,
+        "value": "咳嗽",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "咳嗽",
+        "start": 1,
+        "end": 3,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "咳嗽",
+        "start": 16,
+        "end": 18,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "尿频尿急尿频尿急",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "尿频",
+        "entity": "symptom"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "value": "尿急",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "尿频",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "患飞蚊症4个月了患飞蚊症4个月了",
+    "entities": [
+      {
+        "start": 1,
+        "end": 4,
+        "value": "飞蚊症",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "有时小便的时候生殖器也疼痛难忍确诊患有生殖器疱疹请问生殖器疱疹的传染性强吗生殖器疱疹的传染性强吗",
+    "entities": [
+      {
+        "start": 11,
+        "end": 13,
+        "value": "疼痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "value": "疱疹",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "疼痛",
+        "start": 11,
+        "end": 13,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我小时候得过一次过敏性紫癜我没有肚子疼也没有关节痛小时候得过一次过敏性紫癜我小时候得过一次过敏性紫癜",
+    "entities": [
+      {
+        "start": 11,
+        "end": 13,
+        "value": "紫癜",
+        "entity": "symptom"
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "value": "肚子疼",
+        "entity": "symptom"
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "value": "关节痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "紫癜",
+        "start": 11,
+        "end": 13,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "肚子疼",
+        "start": 16,
+        "end": 19,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "老是打嗝恶心胃还烧心老是打嗝恶心胃还烧心",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "打嗝",
+        "entity": "symptom"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "value": "恶心",
+        "entity": "symptom"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "value": "烧心",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "打嗝",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "恶心",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "天天洗头头皮还是瘙痒天天洗头头皮还是瘙痒",
+    "entities": [
+      {
+        "start": 8,
+        "end": 10,
+        "value": "瘙痒",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "头皮",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "瘙痒",
+        "start": 8,
+        "end": 10,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "焦虑症多年长期失眠吃阿普唑伦每晚两片和氯米帕明半片胃溃疡夜尿频多有泡沫焦虑症多年",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "焦虑",
+        "entity": "symptom"
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "value": "失眠",
+        "entity": "symptom"
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "value": "溃疡",
+        "entity": "symptom"
+      },
+      {
+        "start": 29,
+        "end": 31,
+        "value": "尿频",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "焦虑",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "失眠",
+        "start": 7,
+        "end": 9,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "溃疡",
+        "start": 26,
+        "end": 28,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "焦虑症是怎样引起的慢性焦虑症该如何应对我的焦虑症引发最严重的那次是在2018年5月10日然后就出现了焦虑症状（感觉自己进入了一个虚拟世界心跳加快呼吸急促胃痉挛胃痉挛手脚发麻焦虑症是怎样引起的慢性焦虑症该如何应对",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "焦虑",
+        "entity": "symptom"
+      },
+      {
+        "start": 68,
+        "end": 72,
+        "value": "心跳加快",
+        "entity": "symptom"
+      },
+      {
+        "start": 72,
+        "end": 76,
+        "value": "呼吸急促",
+        "entity": "symptom"
+      },
+      {
+        "start": 76,
+        "end": 77,
+        "value": "胃",
+        "entity": "symptom"
+      },
+      {
+        "start": 77,
+        "end": 79,
+        "value": "痉挛",
+        "entity": "symptom"
+      },
+      {
+        "start": 82,
+        "end": 86,
+        "value": "手脚发麻",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "焦虑",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "心跳加快",
+        "start": 68,
+        "end": 72,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "呼吸急促",
+        "start": 72,
+        "end": 76,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "痉挛",
+        "start": 77,
+        "end": 79,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "最近做了甲状腺结节B超最近做了甲状腺结节B超甲状腺双叶内见数个低回声结节部分结节内见无回声区及强回<br甲状腺左叶中部实性团块伴液化及钙化（TI--RADS甲状腺双叶实性结节部分结节伴液化及结晶（TI--RADS甲状腺结节甲状腺结节",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "value": "甲状腺结节",
+        "entity": "symptom"
+      },
+      {
+        "start": 67,
+        "end": 69,
+        "value": "钙化",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "甲状腺结节",
+        "start": 4,
+        "end": 9,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我发现我最近每天失眠失眠情绪低落",
+    "entities": [
+      {
+        "start": 8,
+        "end": 10,
+        "value": "失眠",
+        "entity": "symptom"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "value": "情绪低落",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "失眠",
+        "start": 8,
+        "end": 10,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "失眠",
+        "start": 10,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "咳嗽早晨咳嗽一下这几天打喷嚏咳嗽早晨咳嗽一下这几天打喷嚏",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "咳嗽",
+        "entity": "symptom"
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "value": "打喷嚏",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "咳嗽",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "咳嗽",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "打喷嚏",
+        "start": 11,
+        "end": 14,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "像水泡一样眼睛下面突然长了水泡一样的东西",
+    "entities": [
+      {
+        "start": 1,
+        "end": 3,
+        "value": "水泡",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "水泡",
+        "start": 1,
+        "end": 3,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "水泡",
+        "start": 13,
+        "end": 15,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "大概是在11月18号我突然感觉胸闷气短大概是在11月18号我突然感觉胸闷气短呼吸困难但没有胸痛的感觉胸闷气短呼吸困难有时心跳还加快胸闷气短呼吸困难有时心跳还加快胸闷气短呼吸困难有时心跳还加快",
+    "entities": [
+      {
+        "start": 15,
+        "end": 17,
+        "value": "胸闷",
+        "entity": "symptom"
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "value": "气短",
+        "entity": "symptom"
+      },
+      {
+        "start": 38,
+        "end": 42,
+        "value": "呼吸困难",
+        "entity": "symptom"
+      },
+      {
+        "start": 45,
+        "end": 47,
+        "value": "胸痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "18",
+        "start": 7,
+        "end": 9,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "气短",
+        "start": 17,
+        "end": 19,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "呼吸困难",
+        "start": 38,
+        "end": 42,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "呼吸困难",
+        "start": 69,
+        "end": 73,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "抑郁发现副作用大头昏嗜睡发现副作用大头昏嗜睡抑郁",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "抑郁",
+        "entity": "symptom"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "value": "头昏",
+        "entity": "symptom"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "value": "嗜睡",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "抑郁",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "嗜睡",
+        "start": 10,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "因为每天晚上想特别的疼痛后来竟然形成了血栓下来了解一下左下肢深静脉血栓形成治疗是什么呢左下肢深静脉血栓形成治疗",
+    "entities": [
+      {
+        "start": 10,
+        "end": 12,
+        "value": "疼痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "value": "静脉血栓",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "疼痛",
+        "start": 10,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "关节有明显的疼痛感关节有明显的疼痛感",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "value": "疼痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "关节",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "疼痛",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "带状疱疹结痂后就觉得头疼头晕带状疱疹结痂后就觉得头",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "疱疹",
+        "entity": "symptom"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "value": "结痂",
+        "entity": "symptom"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "value": "头疼",
+        "entity": "symptom"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "value": "头晕",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "疱疹",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "结痂",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "第二天就开始发烧昨晚反复发烧昨晚反复发烧拉出来稀便很臭第二天就开始发烧",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "value": "发烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "value": "反复发烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "value": "稀便",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "发烧",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "反复发烧",
+        "start": 10,
+        "end": 14,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "肝炎腹水脾大肝炎腹水肝硬化",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "腹水",
+        "entity": "symptom"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "value": "脾大",
+        "entity": "symptom"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "value": "硬化",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "脾大",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "小便刺痛最近三两天又尿痛",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "刺痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "value": "尿痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "刺痛",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "肚子痛腹胀肚子痛腹胀",
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "value": "腹胀",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "肚子痛",
+        "start": 0,
+        "end": 3,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "出现失眠出冷汗出冷汗医生说是性病恐惧症我想了解性病恐惧症是怎么办了呢性病恐惧症是怎么办了",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "失眠",
+        "entity": "symptom"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "value": "出",
+        "entity": "symptom"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "value": "冷汗",
+        "entity": "symptom"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "value": "恐惧",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "失眠",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "出冷汗",
+        "start": 4,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "先是头部发热现在头部34℃现在肚子发烧",
+    "entities": [
+      {
+        "start": 17,
+        "end": 19,
+        "value": "发烧",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "失眠失眠",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "失眠",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "失眠",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "失眠",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "今天感觉还尿急下午的时候方便快结束的时候刺痛感狠强烈今天感觉还尿急下午的时候方便快结束的时候刺痛感狠强烈目前我还有点发热怕冷下体方便的时候疼痛还尿了一点血关健还发热",
+    "entities": [
+      {
+        "start": 5,
+        "end": 7,
+        "value": "尿急",
+        "entity": "symptom"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "value": "刺痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 60,
+        "end": 62,
+        "value": "怕冷",
+        "entity": "symptom"
+      },
+      {
+        "start": 69,
+        "end": 71,
+        "value": "疼痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "尿急",
+        "start": 5,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "刺痛",
+        "start": 20,
+        "end": 22,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "尿急",
+        "start": 31,
+        "end": 33,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "刺痛",
+        "start": 46,
+        "end": 48,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "怕冷",
+        "start": 60,
+        "end": 62,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "疼痛",
+        "start": 69,
+        "end": 71,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "妈妈血压高最近总是脸红吃降压药后脸红怎么回事",
+    "entities": [
+      {
+        "start": 2,
+        "end": 5,
+        "value": "血压高",
+        "entity": "symptom"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "value": "脸红",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "血压高",
+        "start": 2,
+        "end": 5,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "而且每次小便时总是感觉下面刺痛而且带有小腹疼痛所以我想问一下小便刺痛小便刺痛尿黄是什么原因呢",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "value": "刺痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "value": "疼痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "刺痛",
+        "start": 13,
+        "end": 15,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "脸部反复过敏两年多情况从轻微红痒起疹子到后面的面部肿胀发烫刺痛看过很多医生吃的都是氯雷他定片和抗过敏的涂过红霉素软膏和炉甘石洗剂今日高医生诊断是过敏性皮炎可是开的药却是治疗红斑狼疮的那个赛能片副作用那么大诊断结果还没完全确定能吃吗脸部反复过敏两年多情况从轻微红痒起疹子到后面的面部肿胀发烫刺痛看过很多医生吃的都是氯雷他定片和抗过敏的涂过红霉素软膏和炉甘石洗剂今日高医生诊断是过敏性皮炎可是开的药却是治疗红斑狼疮的那个赛能片副作用那么大诊断结果还没完全确定能吃吗脸部过敏不知原因",
+    "entities": [
+      {
+        "start": 29,
+        "end": 31,
+        "value": "刺痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 72,
+        "end": 77,
+        "value": "过敏性皮炎",
+        "entity": "symptom"
+      },
+      {
+        "start": 230,
+        "end": 234,
+        "value": "脸部过敏",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "过敏",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "过敏性皮炎",
+        "start": 72,
+        "end": 77,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "过敏性皮炎",
+        "start": 187,
+        "end": 192,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "2019年9月20日凌晨2点突发低血钾心慌9月21日晚上7点又突发低血钾9月22日下午4点又突发低血钾医生分析可能是焦虑症引起的低血钾医生分析可能是焦虑症引起的低血钾10月2日(昨晚)又突发低血钾症状是心慌四肢乏力四肢乏力反复低血钾症",
+    "entities": [
+      {
+        "start": 16,
+        "end": 19,
+        "value": "低血钾",
+        "entity": "symptom"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "value": "心慌",
+        "entity": "symptom"
+      },
+      {
+        "start": 58,
+        "end": 60,
+        "value": "焦虑",
+        "entity": "symptom"
+      },
+      {
+        "start": 103,
+        "end": 107,
+        "value": "四肢乏力",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "低血钾",
+        "start": 16,
+        "end": 19,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "心慌",
+        "start": 19,
+        "end": 21,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "四肢乏力",
+        "start": 103,
+        "end": 107,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "怀疑我是骨嗜酸性肉芽肿要给我切开手术去除病灶我想知道我这个病是不是嗜酸性肉芽肿怀疑嗜酸性肉芽肿",
+    "entities": [
+      {
+        "start": 8,
+        "end": 11,
+        "value": "肉芽肿",
+        "entity": "symptom"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "value": "病灶",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "嗜酸",
+        "start": 5,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "肉芽肿",
+        "start": 8,
+        "end": 11,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "病灶",
+        "start": 20,
+        "end": 22,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我就觉得全身乏力也有些嗜睡乏力嗜睡吃什么能改善乏力嗜睡吃什么能改善",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "value": "乏力",
+        "entity": "symptom"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "value": "嗜睡",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "乏力",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "肛门口瘙痒几天不涂药膏会有疼痛感疼痛瘙痒地方会有轻微红肿疼痛瘙痒地方会有轻微红肿肛门周围反复瘙痒疼痛肛门周围反复瘙痒疼痛",
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "value": "瘙痒",
+        "entity": "symptom"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "value": "疼痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "瘙痒",
+        "start": 3,
+        "end": 5,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "第二是耳朵会出现耳鸣状况第三是耳朵会出现疼痛感和瘙痒感第三是耳朵会出现疼痛感和瘙痒感耳鸣耳痛瘙痒",
+    "entities": [
+      {
+        "start": 8,
+        "end": 10,
+        "value": "耳鸣",
+        "entity": "symptom"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "value": "疼痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "value": "瘙痒",
+        "entity": "symptom"
+      },
+      {
+        "start": 44,
+        "end": 46,
+        "value": "耳痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "耳鸣",
+        "start": 8,
+        "end": 10,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "疼痛",
+        "start": 20,
+        "end": 22,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "瘙痒",
+        "start": 24,
+        "end": 26,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "干咳无痒喉咙痒去医院检查说咽喉炎干咳无痒喉咙痒",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "干咳",
+        "entity": "symptom"
+      },
+      {
+        "start": 4,
+        "end": 7,
+        "value": "喉咙痒",
+        "entity": "symptom"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "value": "咽喉炎",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "干咳",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "无痒",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "喉咙痒",
+        "start": 4,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "咽喉炎",
+        "start": 13,
+        "end": 16,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "经常性扁桃体发炎经常性扁桃体发炎最近几次发炎经常有化脓最近一次发炎大概20天前化脓性扁桃体发炎化脓性扁桃体发炎第7天又复发且持续高烧两天病灶性扁桃体发炎病灶性扁桃体发炎病灶性扁桃体发炎扁桃体发炎反复复发扁桃体发炎反复复发",
+    "entities": [
+      {
+        "start": 3,
+        "end": 8,
+        "value": "扁桃体发炎",
+        "entity": "symptom"
+      },
+      {
+        "start": 62,
+        "end": 66,
+        "value": "持续高烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 68,
+        "end": 70,
+        "value": "病灶",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "扁桃体发炎",
+        "start": 3,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "持续高烧",
+        "start": 62,
+        "end": 66,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "感觉自己有幻想症和抑郁症",
+    "entities": [
+      {
+        "start": 9,
+        "end": 11,
+        "value": "抑郁",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "幻想",
+        "start": 5,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我小孩刚出月不久就得了红眼病眼屎多我小孩刚出月不久就得了红眼病",
+    "entities": [
+      {
+        "start": 11,
+        "end": 13,
+        "value": "红眼",
+        "entity": "symptom"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "value": "眼屎多",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "眼屎多",
+        "start": 14,
+        "end": 17,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "岁消化不良两年前消化不良小儿疳积挑什么地方",
+    "entities": [
+      {
+        "start": 1,
+        "end": 5,
+        "value": "消化不良",
+        "entity": "symptom"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "value": "小儿疳积",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "消化不良",
+        "start": 1,
+        "end": 5,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "最近总是心慌不管是想起一个人还是什么都不干就都会有心慌压迫感有点喘不上气大口喘气的话反而会打一个哈切（不管什么时候）最近总是心慌怎么回事",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "value": "心慌",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "心慌",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "心慌",
+        "start": 25,
+        "end": 27,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "诊断为急性扁桃体发炎诊断为急性扁桃体发炎伴我头痛畏寒连带着脖子也有点疼痛诊断为急性扁桃体发炎诊断为急性扁桃体发炎伴我头痛畏寒",
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "value": "扁桃体发炎",
+        "entity": "symptom"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "value": "头痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 34,
+        "end": 36,
+        "value": "疼痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "扁桃体发炎",
+        "start": 5,
+        "end": 10,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "疼痛",
+        "start": 34,
+        "end": 36,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "但病人的疼痛没有减轻说疼痛难忍脊椎结核腰疼的厉害",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "value": "疼痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "value": "腰疼",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "疼痛",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "疼痛",
+        "start": 11,
+        "end": 13,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "肢体冷痛腰酸无力腰酸无力右侧睾丸有坠痛感时常隐隐刺痛肢体冷痛腰酸无力腰酸无力",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "冷痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "value": "腰酸",
+        "entity": "symptom"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "value": "无力",
+        "entity": "symptom"
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "value": "坠痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "value": "刺痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "冷痛",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "腰酸",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "无力",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "无力",
+        "start": 10,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "坠痛",
+        "start": 17,
+        "end": 19,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "刺痛",
+        "start": 24,
+        "end": 26,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "嗳气也没明显的胃痛胃胀老嗳气",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "嗳气",
+        "entity": "symptom"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "value": "胃胀",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "嗳气",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "胃痛",
+        "start": 7,
+        "end": 9,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "喉咙痛喉咙痛的前一天喝过一点酒全身骨头痛刺痛那种先是上半身痛双腿又刺痛请问医生喉咙痛全身刺痛是不是得了艾滋病",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "喉咙痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "value": "头痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "value": "刺痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 28,
+        "end": 30,
+        "value": "身痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "喉咙痛",
+        "start": 0,
+        "end": 3,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "喉咙痛",
+        "start": 3,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "头痛",
+        "start": 18,
+        "end": 20,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "刺痛",
+        "start": 20,
+        "end": 22,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "觉得人生无望没有目标对大多数事情提不起兴趣没办法学习新的知识时常感到沮丧情绪不稳定难过时总有自残的想法偏头痛伴有恶心反胃阶段性失眠或嗜睡敏感偏执觉得人生无望没有目标对大多数事情提不起兴趣没办法学习新的知识时常感到沮丧情绪不稳定难过时总有自残的想法偏头痛伴有恶心反胃阶段性失眠或嗜睡敏感偏执觉得人生无望没有目标对大多数事情提不起兴趣没办法学习新的知识时常感到沮丧情绪不稳定难过时总有自残的想法偏头痛伴有恶心反胃阶段性失眠或嗜睡敏感偏执觉得人生无望没有目标对大多数事情提不起兴趣没办法学习新的知识时常感到沮丧情绪不稳定难过时总有自残的想法偏头痛伴有恶心反胃阶段性失眠或嗜睡敏感偏执觉得人生无望没有目标对大多数事情提不起兴趣没办法学习新的知识时常感到沮丧情绪不稳定难过时总有自残的想法偏头痛伴有恶心反胃阶段性失眠或嗜睡敏感偏执觉得人生无望没有目标对大多数事情提不起兴趣没办法学习新的知识时常感到沮丧情绪不稳定难过时总有自残的想法偏头痛伴有恶心反胃阶段性失眠或嗜睡敏感偏执怀疑自己有抑郁症",
+    "entities": [
+      {
+        "start": 34,
+        "end": 36,
+        "value": "沮丧",
+        "entity": "symptom"
+      },
+      {
+        "start": 52,
+        "end": 54,
+        "value": "头痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 56,
+        "end": 58,
+        "value": "恶心",
+        "entity": "symptom"
+      },
+      {
+        "start": 58,
+        "end": 60,
+        "value": "反胃",
+        "entity": "symptom"
+      },
+      {
+        "start": 63,
+        "end": 65,
+        "value": "失眠",
+        "entity": "symptom"
+      },
+      {
+        "start": 66,
+        "end": 68,
+        "value": "嗜睡",
+        "entity": "symptom"
+      },
+      {
+        "start": 437,
+        "end": 439,
+        "value": "抑郁",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "沮丧",
+        "start": 34,
+        "end": 36,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "头痛",
+        "start": 52,
+        "end": 54,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "反胃",
+        "start": 58,
+        "end": 60,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "儿童咳嗽也不发烧就是咳嗽一会咳嗽的好一点像这两天咳嗽的特别严重没停过_医生就配一点消炎药儿童咳嗽",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "咳嗽",
+        "entity": "symptom"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "value": "发烧",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "咳嗽",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "初步诊断:第12胸推爆裂性骨折并截瘫胸11腰12椎体横突骨折多发肋骨骨折创伤性胸腔积液肺挫伤右侧腹膜后初步诊断:第12胸推爆裂性骨折并截瘫胸1",
+    "entities": [
+      {
+        "start": 16,
+        "end": 18,
+        "value": "截瘫",
+        "entity": "symptom"
+      },
+      {
+        "start": 36,
+        "end": 38,
+        "value": "创伤",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "12",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "截瘫",
+        "start": 16,
+        "end": 18,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "创伤",
+        "start": 36,
+        "end": 38,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "9个月孩子发烧一个晚上第二天早上检查白细胞增多没咳嗽小孩发烧引起的白细胞增多小孩发烧引起的白细胞增多",
+    "entities": [
+      {
+        "start": 5,
+        "end": 7,
+        "value": "发烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "value": "白细胞增多",
+        "entity": "symptom"
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "value": "咳嗽",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "发烧",
+        "start": 5,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "白细胞增多",
+        "start": 18,
+        "end": 23,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "己经十多年焦虑症手麻焦虑症已经很多年",
+    "entities": [
+      {
+        "start": 5,
+        "end": 7,
+        "value": "焦虑",
+        "entity": "symptom"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "value": "手麻",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "焦虑",
+        "start": 5,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "胸闷气短胸闷气短精神恍惚手发抖我知道我是典型的神经官能症胸闷气短胸闷气短精神恍惚",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "胸闷",
+        "entity": "symptom"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "value": "气短",
+        "entity": "symptom"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "value": "精神恍惚",
+        "entity": "symptom"
+      },
+      {
+        "start": 23,
+        "end": 28,
+        "value": "神经官能症",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "胸闷",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "气短",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "胸闷",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "气短",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "精神恍惚",
+        "start": 8,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "第二十天小肚子疼的冒汗还有恶心想吐胚胎之突然后肚子疼",
+    "entities": [
+      {
+        "start": 5,
+        "end": 8,
+        "value": "肚子疼",
+        "entity": "symptom"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "value": "恶心",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "肚子疼",
+        "start": 5,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我有心绞痛一喝酒就脸红我想知道为什么喝酒脸红的人吃心绞痛药要注意我想知道为什么喝酒脸红的人吃心绞痛药要注意我想知道为什么喝酒脸红的人吃心绞痛药要注意为什么喝酒脸红吃心绞痛药要注意为什么喝酒脸红吃心绞痛药要注意为什么喝酒脸红吃心绞痛药要注意",
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "value": "绞痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "value": "脸红",
+        "entity": "symptom"
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "value": "喝酒脸红",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "绞痛",
+        "start": 3,
+        "end": 5,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "脸红",
+        "start": 9,
+        "end": 11,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "七个月的宝宝发烧感冒一开始说是细菌感染感冒七个月的宝宝发烧感冒一开始说是细菌感染感冒今天咳嗽又差点断气宝宝感冒咳嗽差点断气怎么办",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "value": "发烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "value": "细菌感染",
+        "entity": "symptom"
+      },
+      {
+        "start": 44,
+        "end": 46,
+        "value": "咳嗽",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "发烧",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "细菌感染",
+        "start": 15,
+        "end": 19,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "喝酒脸红脖子红的原因是什么喝酒脸红脖子红的原因是什么",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "喝酒脸红",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "脸红",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "昨天晚上先是在图书馆感觉头晕头晕恶心呕吐怎么回事头晕恶心呕吐怎么回事",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "value": "头晕",
+        "entity": "symptom"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "value": "恶心",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "头晕",
+        "start": 12,
+        "end": 14,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "头晕",
+        "start": 14,
+        "end": 16,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "恶心",
+        "start": 16,
+        "end": 18,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "下肢无力下肢无力下蹲困难",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "下肢无力",
+        "entity": "symptom"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "value": "下蹲困难",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "下肢无力",
+        "start": 0,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "下肢无力",
+        "start": 4,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "下蹲困难",
+        "start": 8,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "12月7号发烧去医院检查病毒细菌感染紧接着开始咳嗽咳嗽有缓解发烧咳嗽发烧咳嗽",
+    "entities": [
+      {
+        "start": 5,
+        "end": 7,
+        "value": "发烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "value": "细菌感染",
+        "entity": "symptom"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "value": "咳嗽",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "发烧",
+        "start": 5,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "细菌感染",
+        "start": 14,
+        "end": 18,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "这几天在身体的下面出了一些很痒的水泡那么生殖器疱疹到底有没有传染性生殖器疱疹到底有没有传染性",
+    "entities": [
+      {
+        "start": 16,
+        "end": 18,
+        "value": "水泡",
+        "entity": "symptom"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "value": "疱疹",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "水泡",
+        "start": 16,
+        "end": 18,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "于2019年10月28号做完会阴部囊肿切除手术没过几天发现尿血吃了颗头孢拉定之后没出现尿血就在前几晚上吃花胶之后到11月29号早上要出现尿血于2019年10月28号做完会阴部囊肿切",
+    "entities": [
+      {
+        "start": 17,
+        "end": 19,
+        "value": "囊肿",
+        "entity": "symptom"
+      },
+      {
+        "start": 29,
+        "end": 31,
+        "value": "尿血",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "2019",
+        "start": 1,
+        "end": 5,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "囊肿",
+        "start": 17,
+        "end": 19,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "手上起水泡手凉不明显手热就爆起来手上起水泡手凉不明显手热就爆起来",
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "value": "水泡",
+        "entity": "symptom"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "value": "手凉",
+        "entity": "symptom"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "value": "手热",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "水泡",
+        "start": 3,
+        "end": 5,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "手凉",
+        "start": 5,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我单侧乳房胀痛我单侧乳房胀痛今天复查是左乳囊性结节我单侧乳房胀痛我单侧乳房胀痛",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "value": "乳房胀痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "value": "结节",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "乳房胀痛",
+        "start": 3,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "就是最近浑身骨头痛就是浑身骨头痛不知道什么原因就是最近浑身骨头痛",
+    "entities": [
+      {
+        "start": 7,
+        "end": 9,
+        "value": "头痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "头痛",
+        "start": 7,
+        "end": 9,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "头痛",
+        "start": 14,
+        "end": 16,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "头晕沉沉的眼花注意力不集中鼻子带血丝手脚冰凉头晕沉沉的眼花注意力不集中鼻子带血丝手脚冰凉头晕沉沉的眼花注意力不集中鼻子带血丝手脚冰凉头晕沉沉的眼花注意力不集中鼻子带血丝手脚冰凉头晕沉沉的眼花注意力不集中鼻子带血丝手脚头晕沉沉的眼花注意力不集中鼻子带血丝手脚头晕沉沉的眼花注意力不集中鼻子带血丝手脚",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "头晕",
+        "entity": "symptom"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "value": "眼花",
+        "entity": "symptom"
+      },
+      {
+        "start": 7,
+        "end": 13,
+        "value": "注意力不集中",
+        "entity": "symptom"
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "value": "手脚冰凉",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "头晕",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "眼花",
+        "start": 5,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "注意力不集中",
+        "start": 7,
+        "end": 13,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我咳嗽有一两个月时间了开始天气转冷没多穿衣服觉得感冒了也没看医生一直咳嗽着从有痰咳嗽到干咳嗽从有痰咳嗽到干咳嗽偶尔也有右边胸痛咳嗽两月痰中带血",
+    "entities": [
+      {
+        "start": 1,
+        "end": 3,
+        "value": "咳嗽",
+        "entity": "symptom"
+      },
+      {
+        "start": 43,
+        "end": 45,
+        "value": "干咳",
+        "entity": "symptom"
+      },
+      {
+        "start": 61,
+        "end": 63,
+        "value": "胸痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "咳嗽",
+        "start": 1,
+        "end": 3,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "由于发烧发烧褪去后2个小时开始出现精神恍惚意识很清晰平均3之10分钟发作一次长1分钟由于发烧发烧褪去后2个小时开始出现精神恍惚意识很清晰平均3之10分钟发作一次长1分钟由于发烧发烧褪去后2个小时开始出现精神恍",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "发烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 17,
+        "end": 21,
+        "value": "精神恍惚",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "发烧",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "发烧",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "精神恍惚",
+        "start": 17,
+        "end": 21,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "最近总是失眠头晕最近总是失眠头晕检查神经衰弱神经衰弱吃什么改善神经衰弱吃什么改善",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "value": "失眠",
+        "entity": "symptom"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "value": "头晕",
+        "entity": "symptom"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "value": "衰弱",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "失眠",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "头晕",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "宝宝后天满月脸上黄疸17身上正常",
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "value": "满月脸",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "开始是感冒鼻塞鼻塞好了这几晚每晚到下半夜三四点就咳嗽一阵是怎么回事开始是感冒鼻塞",
+    "entities": [
+      {
+        "start": 5,
+        "end": 7,
+        "value": "鼻塞",
+        "entity": "symptom"
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "value": "咳嗽",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "鼻塞",
+        "start": 5,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "鼻塞",
+        "start": 7,
+        "end": 9,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "做完三天后头晕腰痛脚软腹部胀痛上大号出血做完三天后头晕腰痛脚软腹部胀痛上大号出血做完三天后头晕脚软腰痛上大号出血",
+    "entities": [
+      {
+        "start": 5,
+        "end": 7,
+        "value": "头晕",
+        "entity": "symptom"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "value": "胀痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "头晕",
+        "start": 5,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "腰痛",
+        "start": 7,
+        "end": 9,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "胀痛",
+        "start": 13,
+        "end": 15,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "小便尿道口刺痛尿频小便间断刺痛",
+    "entities": [
+      {
+        "start": 5,
+        "end": 7,
+        "value": "刺痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "value": "尿频",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "刺痛",
+        "start": 5,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "得了社交恐惧症后一直不敢和别人交流得了社交恐惧症后一直不敢和别人交流现在看到陌生人就容易脸红如何克服社交恐惧症如何克服社交恐惧症",
+    "entities": [
+      {
+        "start": 2,
+        "end": 6,
+        "value": "社交恐惧",
+        "entity": "symptom"
+      },
+      {
+        "start": 44,
+        "end": 46,
+        "value": "脸红",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "社交恐惧",
+        "start": 2,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我姐姐得了糖尿病听别人说糖尿病是因为吃得多引起的是不是得了神经性厌食症呢是不是得了神经性厌食症呢神经性厌食症的症状神经性厌食症的症状",
+    "entities": [
+      {
+        "start": 5,
+        "end": 7,
+        "value": "糖尿",
+        "entity": "symptom"
+      },
+      {
+        "start": 29,
+        "end": 34,
+        "value": "神经性厌食",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "糖尿",
+        "start": 5,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "糖尿",
+        "start": 12,
+        "end": 14,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "神经性厌食",
+        "start": 29,
+        "end": 34,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我昨天开始出现尿尿频繁并伴有疼痛今天中午发现有尿血的现象我昨天开始出现尿尿频繁",
+    "entities": [
+      {
+        "start": 8,
+        "end": 10,
+        "value": "尿频",
+        "entity": "symptom"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "value": "疼痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "value": "尿血",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "尿尿频",
+        "start": 8,
+        "end": 10,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "疼痛",
+        "start": 14,
+        "end": 16,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "当时因为脓胸发烧住院但是最近头晕恶心但是最近头晕恶心当时因为脓胸发烧住院",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "value": "发烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "value": "头晕",
+        "entity": "symptom"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "value": "恶心",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "发烧",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "恶心",
+        "start": 16,
+        "end": 18,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "现在膝盖仍疼痛关于紫癜膝关节疼痛的疾病关于紫癜膝关节疼痛的疾病关于紫癜膝关节疼痛的疾病关于紫癜膝关节疼痛的疾病",
+    "entities": [
+      {
+        "start": 5,
+        "end": 7,
+        "value": "疼痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "value": "紫癜",
+        "entity": "symptom"
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "value": "膝关节疼痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "疼痛",
+        "start": 5,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "膝关节疼痛",
+        "start": 11,
+        "end": 16,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "由于素体脾胃虚弱或饮食不节过度劳累等引起脾气虚衰若脾胃不和导致气机不畅嗳气后舒适属脾虚气滞型属脾虚气滞型肠鸣由于素体脾胃虚弱或饮食不节",
+    "entities": [
+      {
+        "start": 4,
+        "end": 8,
+        "value": "脾胃虚弱",
+        "entity": "symptom"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "value": "脾气虚",
+        "entity": "symptom"
+      },
+      {
+        "start": 25,
+        "end": 29,
+        "value": "脾胃不和",
+        "entity": "symptom"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "value": "气机不畅",
+        "entity": "symptom"
+      },
+      {
+        "start": 35,
+        "end": 37,
+        "value": "嗳气",
+        "entity": "symptom"
+      },
+      {
+        "start": 41,
+        "end": 43,
+        "value": "脾虚",
+        "entity": "symptom"
+      },
+      {
+        "start": 43,
+        "end": 45,
+        "value": "气滞",
+        "entity": "symptom"
+      },
+      {
+        "start": 52,
+        "end": 54,
+        "value": "肠鸣",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "脾胃虚弱",
+        "start": 4,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "脾气虚",
+        "start": 20,
+        "end": 23,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "脾胃不和",
+        "start": 25,
+        "end": 29,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "气机不畅",
+        "start": 31,
+        "end": 35,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "嗳气",
+        "start": 35,
+        "end": 37,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "脾虚",
+        "start": 41,
+        "end": 43,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "气滞",
+        "start": 43,
+        "end": 45,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "脾虚",
+        "start": 47,
+        "end": 49,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "气滞",
+        "start": 49,
+        "end": 51,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "肠鸣",
+        "start": 52,
+        "end": 54,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我是一名患有原发性血小板减少的病人被确诊为血小板减少性紫癜被确诊为血小板减少性紫癜我是一名患有原发性血小板减少的",
+    "entities": [
+      {
+        "start": 9,
+        "end": 14,
+        "value": "血小板减少",
+        "entity": "symptom"
+      },
+      {
+        "start": 27,
+        "end": 29,
+        "value": "紫癜",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "血小板减少",
+        "start": 9,
+        "end": 14,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "第一次发病:8月11日左右症状:尿频尿急由于自己怀疑是泌尿系统感染尿急由于自己怀疑是泌尿系统感染去小药铺随便开了些泌尿系统感染的药症状:尿频尿急两大腿根部坠痛症状:尿频尿急尿不尽小腹胀痛小腹胀痛前列腺发炎如何治疗",
+    "entities": [
+      {
+        "start": 16,
+        "end": 18,
+        "value": "尿频",
+        "entity": "symptom"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "value": "尿急",
+        "entity": "symptom"
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "value": "泌尿系统感染",
+        "entity": "symptom"
+      },
+      {
+        "start": 77,
+        "end": 79,
+        "value": "坠痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 86,
+        "end": 89,
+        "value": "尿不尽",
+        "entity": "symptom"
+      },
+      {
+        "start": 90,
+        "end": 91,
+        "value": "腹",
+        "entity": "symptom"
+      },
+      {
+        "start": 91,
+        "end": 93,
+        "value": "胀痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 100,
+        "end": 102,
+        "value": "发炎",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "11",
+        "start": 8,
+        "end": 10,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "尿频",
+        "start": 16,
+        "end": 18,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "尿急",
+        "start": 18,
+        "end": 20,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "泌尿系统感染",
+        "start": 27,
+        "end": 33,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "今天傍晚开始小腹痛加腰酸排卵日肚子疼",
+    "entities": [
+      {
+        "start": 10,
+        "end": 12,
+        "value": "腰酸",
+        "entity": "symptom"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "value": "肚子疼",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "腹痛",
+        "start": 7,
+        "end": 9,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "腰酸",
+        "start": 10,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "肚子疼",
+        "start": 15,
+        "end": 18,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "左肾囊肿腹部隐痛和腰痛左肾囊肿腹部隐痛和腰痛左肾囊肿腹部隐痛和腰痛左肾囊肿腹部隐痛和腰痛",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "囊肿",
+        "entity": "symptom"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "value": "隐痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "囊肿",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "说是幽门水肿吃饭就有饱胀感为了治疗幽门水肿也用了4联可是不怎么见效幽门水肿怎么用药",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "value": "水肿",
+        "entity": "symptom"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "value": "胀感",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "水肿",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "平时总是口干舌质赤红无苔平时总是口干",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "value": "口干",
+        "entity": "symptom"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "value": "无苔",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "口干",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "单纯性疱疹IGG是否能治愈呢2009年9月发现尖锐湿疣目前没有尤体没有疱疹~~却传给对方了检查出单纯性疱疹IGG阳性所以想知道我的疱疹病毒怎么样才算治好您好~~那请问单纯性疱疹IGG是否能治",
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "value": "疱疹",
+        "entity": "symptom"
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "value": "湿疣",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "疱疹",
+        "start": 3,
+        "end": 5,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我有糖尿病史5年了最近有得了带状疱疹带状疱疹应该挂什么科",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "糖尿",
+        "entity": "symptom"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "value": "疱疹",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "糖尿",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "患者肺部出血咳血患者肺部出血咳血会反复出血吗患者肺部出血咳血患者肺部出血咳血",
+    "entities": [
+      {
+        "start": 2,
+        "end": 6,
+        "value": "肺部出血",
+        "entity": "symptom"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "value": "咳血",
+        "entity": "symptom"
+      },
+      {
+        "start": 17,
+        "end": 21,
+        "value": "反复出血",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "肺部出血",
+        "start": 2,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "咳血",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "第二天发现说话听不懂然后上医院诊断出脑梗心梗导致失语因为我家人有11年糖尿病当天检测出血糖26然后输了一些胰岛素丹参酮银杏叶等液第二天发现说话听不懂然后上医院诊断出脑梗心梗导致失语因为我家人有11年糖尿病当天检测出血糖26然后输了一些胰岛素丹参酮银杏叶等液出突发脑梗心梗失语右侧不能动了",
+    "entities": [
+      {
+        "start": 24,
+        "end": 26,
+        "value": "失语",
+        "entity": "symptom"
+      },
+      {
+        "start": 35,
+        "end": 37,
+        "value": "糖尿",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "失语",
+        "start": 24,
+        "end": 26,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "乳房疼痛乳房痛有结节",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "疼痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "value": "结节",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "疼痛",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "胳膊上起了小水泡去了好多医院有说过敏的有说汗疱疹的胳膊上起了小水泡",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "value": "水泡",
+        "entity": "symptom"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "value": "疱疹",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "水泡",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "2018年6月25日作了息肉电切胸口痛",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "value": "息肉",
+        "entity": "symptom"
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "value": "口痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "我到日子了月经还没来每次都是13号左右来前几天有子宫的坠痛感前几天子宫还有坠痛感",
+    "entities": [
+      {
+        "start": 27,
+        "end": 29,
+        "value": "坠痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "13",
+        "start": 14,
+        "end": 16,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "坠痛",
+        "start": 27,
+        "end": 29,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "心悸病户外医院那个科室合适心悸病户外医院那个科室合适",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "心悸",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "心悸",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "心悸",
+        "start": 13,
+        "end": 15,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "前两天浑身冷到了昨天去医院检查了检查发烧耳朵听力下降感冒身体冷听力下降头昏脑胀感冒身体冷听力下降头昏脑胀",
+    "entities": [
+      {
+        "start": 18,
+        "end": 20,
+        "value": "发烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "value": "听力下降",
+        "entity": "symptom"
+      },
+      {
+        "start": 35,
+        "end": 37,
+        "value": "头昏",
+        "entity": "symptom"
+      },
+      {
+        "start": 38,
+        "end": 40,
+        "value": "胀感",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "发烧",
+        "start": 18,
+        "end": 20,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "听力下降",
+        "start": 22,
+        "end": 26,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "饭后胃胀胃痛如何缓解饭后胃胀胃痛如何缓解",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "胃胀",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "胃胀",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "胃痛",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "看了一次医生怀疑焦虑症手机网络成瘾怎么办",
+    "entities": [
+      {
+        "start": 8,
+        "end": 10,
+        "value": "焦虑",
+        "entity": "symptom"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "value": "成瘾",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "焦虑",
+        "start": 8,
+        "end": 10,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "艾滋会一年之后出现局部淋巴结肿大吗艾滋会一年之后出现局部淋巴结肿大吗会长期头昏浑身无力一直发低烧吗嗜睡艾滋会一年之后出现局部淋巴结肿大吗艾滋会一年之后出现局部淋巴结肿大吗",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "value": "局部淋巴结肿大",
+        "entity": "symptom"
+      },
+      {
+        "start": 37,
+        "end": 39,
+        "value": "头昏",
+        "entity": "symptom"
+      },
+      {
+        "start": 41,
+        "end": 43,
+        "value": "无力",
+        "entity": "symptom"
+      },
+      {
+        "start": 46,
+        "end": 48,
+        "value": "低烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 49,
+        "end": 51,
+        "value": "嗜睡",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "局部淋巴结肿大",
+        "start": 9,
+        "end": 16,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我今天发烧了发烧是什么原因引起的脸红发烧是怎么回事脸红发烧是怎么回事",
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "value": "发烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "value": "脸红",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "发烧",
+        "start": 3,
+        "end": 5,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "得了社交恐惧症后得了社交恐惧症后看到陌生人就脸红社交恐惧症药物社交恐惧症药物",
+    "entities": [
+      {
+        "start": 2,
+        "end": 6,
+        "value": "社交恐惧",
+        "entity": "symptom"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "value": "脸红",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "社交恐惧",
+        "start": 2,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "高中踢球的时候脚扭伤了后面到现在是感觉膝盖下面痛高中踢球的时候脚扭伤了",
+    "entities": [
+      {
+        "start": 8,
+        "end": 10,
+        "value": "扭伤",
+        "entity": "symptom"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "value": "面痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "扭伤",
+        "start": 8,
+        "end": 10,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "有点恶心现在肚子涨还恶心怎么回事",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "恶心",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "恶心",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "恶心",
+        "start": 10,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "咳嗽厉害发烧38度恶心呕吐疲乏无力疲乏无力儿童感冒发烧咳嗽恶心儿童感冒发烧咳嗽恶心儿童感冒发烧咳嗽恶心",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "咳嗽",
+        "entity": "symptom"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "value": "发烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "value": "恶心",
+        "entity": "symptom"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "value": "疲乏",
+        "entity": "symptom"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "value": "无力",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "咳嗽",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "恶心",
+        "start": 9,
+        "end": 11,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "疲乏",
+        "start": 13,
+        "end": 15,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "无力",
+        "start": 15,
+        "end": 17,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "无力",
+        "start": 19,
+        "end": 21,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我在两个月前患了带状疱疹后来长好了带状疱疹后遗神经痛会复发吗带状疱疹后遗神经痛会复发吗",
+    "entities": [
+      {
+        "start": 10,
+        "end": 12,
+        "value": "疱疹",
+        "entity": "symptom"
+      },
+      {
+        "start": 23,
+        "end": 26,
+        "value": "神经痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "疱疹",
+        "start": 10,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我有尿频尿急尿不尽尿道有刺痛感然后性生活时间非常短我有尿频尿急尿不尽尿道有刺痛感然后性生活时间非常短我有尿频尿急尿不尽尿道有刺痛感然后性生活时间非常短我有尿频尿急尿不尽尿道有刺痛感然后性生活时间非常短尿频尿急尿不尽尿频尿急尿不尽尿频尿急尿不尽",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "尿频",
+        "entity": "symptom"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "value": "尿急",
+        "entity": "symptom"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "value": "尿不尽",
+        "entity": "symptom"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "value": "刺痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "尿频",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "尿急",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "尿不尽",
+        "start": 6,
+        "end": 9,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "多发性胃息肉增生息肉做完10天后开始胃胀多发性胃息肉增生息肉",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "value": "息肉",
+        "entity": "symptom"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "value": "胃胀",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "息肉",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "息肉",
+        "start": 8,
+        "end": 10,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "有蛛网膜囊肿失眠耳鸣失眠耳鸣颈椎痛头痛难受的时候有心慌喘不过气血压偏低有蛛网膜囊肿失眠耳鸣失眠耳鸣",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "value": "囊肿",
+        "entity": "symptom"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "value": "失眠",
+        "entity": "symptom"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "value": "耳鸣",
+        "entity": "symptom"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "value": "颈椎痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "value": "头痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "value": "心慌",
+        "entity": "symptom"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "value": "血压偏低",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "囊肿",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "失眠",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "耳鸣",
+        "start": 8,
+        "end": 10,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "失眠",
+        "start": 10,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "耳鸣",
+        "start": 12,
+        "end": 14,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "颈椎痛",
+        "start": 14,
+        "end": 17,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "头痛",
+        "start": 17,
+        "end": 19,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "血压偏低",
+        "start": 31,
+        "end": 35,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "发烧呕吐三天不退又低烧两天发烧第二天夜里眼睛凝视4秒流感发烧呕吐肚子疼流感发烧呕吐肚子疼",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "发烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "value": "低烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "value": "肚子疼",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "发烧",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "低烧",
+        "start": 9,
+        "end": 11,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "5天前在公共澡堂失意摔倒在浴池里被水呛到昏迷溺水后大脑缺氧",
+    "entities": [
+      {
+        "start": 20,
+        "end": 22,
+        "value": "昏迷",
+        "entity": "symptom"
+      },
+      {
+        "start": 26,
+        "end": 29,
+        "value": "脑缺氧",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "昏迷",
+        "start": 20,
+        "end": 22,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "然后脚瘀血是因为踢足球挨的这两天老是发热而且还一阵阵剧痛我想问下怎样能缓轻疼痛然后脚瘀血",
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "value": "瘀血",
+        "entity": "symptom"
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "value": "剧痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 37,
+        "end": 39,
+        "value": "疼痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "瘀血",
+        "start": 3,
+        "end": 5,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "剧痛",
+        "start": 26,
+        "end": 28,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "感冒了第一天是上午低烧然后持续低烧一天然后持续低烧一天但是不发烧了感冒了第一天是上午低烧",
+    "entities": [
+      {
+        "start": 9,
+        "end": 11,
+        "value": "低烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "value": "持续低烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "value": "发烧",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "低烧",
+        "start": 9,
+        "end": 11,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "持续低烧",
+        "start": 13,
+        "end": 17,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "手脚冰凉手心经常出冷汗手脚冰凉手心经常出冷汗手脚冰凉手心经常出冷汗注意力不集中手脚冰凉手心经常出冷汗手脚冰凉手心经常出冷汗手脚冰凉手心经常出冷汗注意力不集中",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "手脚冰凉",
+        "entity": "symptom"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "value": "出",
+        "entity": "symptom"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "value": "冷汗",
+        "entity": "symptom"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "value": "注意力不集中",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "手脚冰凉",
+        "start": 0,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "年龄：32岁问题：年龄32偶尔胸痛像针扎一样也有可能躺下起来都特别疼怎哦回事做个心电图说是心肌缺血年龄：32岁问题：年龄32偶尔胸痛像针扎",
+    "entities": [
+      {
+        "start": 15,
+        "end": 17,
+        "value": "胸痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 45,
+        "end": 49,
+        "value": "心肌缺血",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "32",
+        "start": 11,
+        "end": 13,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "胸痛",
+        "start": 15,
+        "end": 17,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "心肌缺血",
+        "start": 45,
+        "end": 49,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "心慌心悸心慌心悸此外经常嗳气反胃肠鸣打嗝肚子疼多梦",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "心慌",
+        "entity": "symptom"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "value": "心悸",
+        "entity": "symptom"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "value": "嗳气",
+        "entity": "symptom"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "value": "反胃",
+        "entity": "symptom"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "value": "肠鸣",
+        "entity": "symptom"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "value": "打嗝",
+        "entity": "symptom"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "value": "肚子疼",
+        "entity": "symptom"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "value": "多梦",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "心慌",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "心悸",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "心慌",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "心悸",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "嗳气",
+        "start": 12,
+        "end": 14,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "肠鸣",
+        "start": 16,
+        "end": 18,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "打嗝",
+        "start": 18,
+        "end": 20,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "肚子疼",
+        "start": 20,
+        "end": 23,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "最近手指逢和身上出现小的水泡皮肤出现水泡",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "value": "水泡",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "水泡",
+        "start": 12,
+        "end": 14,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "水泡",
+        "start": 18,
+        "end": 20,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "老胃病十几年了:初次犯病2002年初中每当中晚饭前一个半小时左右开始疼痛吃点东西或喝点温水下去就会不痛(当时以为是闹肚子不在意)经过了2~3个礼拜后在家人陪同到镇上医院检查了后来开几副中药吃了好了直到2012年@疼痛又开始发作了自己到医院看(做了胃镜)才知道是胃病的疼痛(十二指肠溃疡吃点东西或喝点温水下去就会不痛(当时以为是闹肚子不在意)经过了2~3个礼拜后在家人陪同到镇上医院检查了后来开几副中药吃了好了直到2012年@疼痛又开始发作了自己到医院看(做了胃镜)才知道是胃病的疼痛(十二指肠溃疡胃窦炎)开药吃了没痛痛了过后@几年到现在每年都反复反复的发作几疼痛实在是太困扰人生活上都给@痛病折磨透了今此时特意上来请求的:望医生专家能指引下治疗法非常感谢十二指肠溃疡",
+    "entities": [
+      {
+        "start": 34,
+        "end": 36,
+        "value": "疼痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 140,
+        "end": 142,
+        "value": "溃疡",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "疼痛",
+        "start": 34,
+        "end": 36,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "晚上两点多心抖的厉害还带有抽搐发病前9个小时时胃疼晚上两点多心抖的厉害还带有抽搐发病前9个小时时胃疼晚上两点多心抖的厉害还带有抽搐发病前9个",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "value": "抽搐",
+        "entity": "symptom"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "value": "胃疼",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "多心",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "抽搐",
+        "start": 13,
+        "end": 15,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "胃疼",
+        "start": 23,
+        "end": 25,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "抽搐",
+        "start": 38,
+        "end": 40,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "医院检查过后都是带状疱疹而且他总是觉得很疼痛想请问一下医生带状疱疹疼痛如何治疗想请问一下医生带状疱疹疼痛如何治疗带状泡疹疼痛如何治疗",
+    "entities": [
+      {
+        "start": 10,
+        "end": 12,
+        "value": "疱疹",
+        "entity": "symptom"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "value": "疼痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "疱疹",
+        "start": 10,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "有尖锐湿疣增生息肉有尖锐湿疣增生息肉",
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "value": "湿疣",
+        "entity": "symptom"
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "value": "息肉",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "湿疣",
+        "start": 3,
+        "end": 5,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "有心律不齐还有点头晕结果胸闷胸闷气短胸闷气短心悸手脚发麻",
+    "entities": [
+      {
+        "start": 1,
+        "end": 5,
+        "value": "心律不齐",
+        "entity": "symptom"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "value": "头晕",
+        "entity": "symptom"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "value": "胸闷",
+        "entity": "symptom"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "value": "气短",
+        "entity": "symptom"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "value": "心悸",
+        "entity": "symptom"
+      },
+      {
+        "start": 24,
+        "end": 28,
+        "value": "手脚发麻",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "心律不齐",
+        "start": 1,
+        "end": 5,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "头晕",
+        "start": 8,
+        "end": 10,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "胸闷",
+        "start": 12,
+        "end": 14,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "胸闷",
+        "start": 14,
+        "end": 16,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "气短",
+        "start": 16,
+        "end": 18,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "气短",
+        "start": 20,
+        "end": 22,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "心悸",
+        "start": 22,
+        "end": 24,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "手脚发麻",
+        "start": 24,
+        "end": 28,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我昨晚洗澡发现肛门附近疼痛疼痛比昨天明显我不知道是痔疮还是肛周脓肿我昨晚洗澡发现肛门附近疼痛",
+    "entities": [
+      {
+        "start": 11,
+        "end": 13,
+        "value": "疼痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 31,
+        "end": 33,
+        "value": "脓肿",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "疼痛",
+        "start": 11,
+        "end": 13,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "疼痛",
+        "start": 13,
+        "end": 15,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "最主要是失眠如何克服焦虑心理焦虑症是怎么回事",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "value": "失眠",
+        "entity": "symptom"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "value": "焦虑",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "失眠",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我爱人总是有幻觉有幻觉妄想就是神经病吗有幻觉妄想就是神经病吗有幻觉妄想就是精神病吗有幻觉妄想就是精神病吗",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "value": "幻觉",
+        "entity": "symptom"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "value": "妄想",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "幻觉",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "一个月前突感腿部疼痛水肿一个月前突感腿部疼痛水肿但腿部水肿一个月一直未消腿部水肿一个月未消",
+    "entities": [
+      {
+        "start": 8,
+        "end": 10,
+        "value": "疼痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "value": "水肿",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "疼痛",
+        "start": 8,
+        "end": 10,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "肚子痛之前得过肠淋巴结肿大目前有痰不怎么咳嗽出虚汗有点流清鼻涕目前有痰不怎么咳嗽出虚汗有点流清鼻涕感冒之前就消化不良两天一次大便粘酸臭四岁孩子病毒感冒肚子疼痛四岁孩子病毒感冒肚子疼痛",
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "value": "淋巴结肿大",
+        "entity": "symptom"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "value": "咳嗽",
+        "entity": "symptom"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "value": "虚汗",
+        "entity": "symptom"
+      },
+      {
+        "start": 54,
+        "end": 58,
+        "value": "消化不良",
+        "entity": "symptom"
+      },
+      {
+        "start": 75,
+        "end": 77,
+        "value": "肚子",
+        "entity": "symptom"
+      },
+      {
+        "start": 77,
+        "end": 79,
+        "value": "疼痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "肚子痛",
+        "start": 0,
+        "end": 3,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "淋巴结肿大",
+        "start": 8,
+        "end": 13,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "疼痛",
+        "start": 77,
+        "end": 79,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "老年皮肤瘙痒症老年皮肤瘙痒症老年皮肤瘙痒症老年皮肤瘙痒症",
+    "entities": [
+      {
+        "start": 2,
+        "end": 6,
+        "value": "皮肤瘙痒",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "瘙痒",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "疱疹用联苯苄唑乳膏有效么带状疱疹用什么药比较好~我这是第一次出现疱疹需要用什么药10天以前发现的水泡已经破了现在结痂伴随有阵痛带状疱疹用什么药比较好~我这是第一次出现疱疹需要用什么药10天以前发现的水泡已经破了现在结痂伴随有阵痛带状疱疹用什么药比较好~我这是第一次出现疱疹需要用什么药10天以前发现的水泡已经破了现在结痂伴随有阵痛疱疹用联苯苄唑乳膏有效么带状疱疹用什么",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "疱疹",
+        "entity": "symptom"
+      },
+      {
+        "start": 48,
+        "end": 50,
+        "value": "水泡",
+        "entity": "symptom"
+      },
+      {
+        "start": 56,
+        "end": 58,
+        "value": "结痂",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "疱疹",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "后又患深静脉血栓会明显疼痛后又患深静脉血栓",
+    "entities": [
+      {
+        "start": 4,
+        "end": 8,
+        "value": "静脉血栓",
+        "entity": "symptom"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "value": "疼痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "静脉血栓",
+        "start": 4,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "腿腕起了好多小水泡结痂掉了后会流水流血然后在结痂现在感觉创伤处越来越大了腿上起水泡",
+    "entities": [
+      {
+        "start": 7,
+        "end": 9,
+        "value": "水泡",
+        "entity": "symptom"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "value": "结痂",
+        "entity": "symptom"
+      },
+      {
+        "start": 28,
+        "end": 30,
+        "value": "创伤",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "水泡",
+        "start": 7,
+        "end": 9,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "结痂",
+        "start": 9,
+        "end": 11,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "夜间惊厥舌头变成溃疡头皮里有水泡厌食孩子发烧口腔溃疡",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "惊厥",
+        "entity": "symptom"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "value": "溃疡",
+        "entity": "symptom"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "value": "水泡",
+        "entity": "symptom"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "value": "厌食",
+        "entity": "symptom"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "value": "发烧",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "惊厥",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "溃疡",
+        "start": 8,
+        "end": 10,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "水泡",
+        "start": 14,
+        "end": 16,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "16岁孩子因胃胀痛十来天在中医院看了病16岁孩子因胃胀痛十来天在中医院看了病胃胀气恶心想吐胃胀痛伴有头疼怎么解决胃胀痛伴有头疼怎么解决",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "value": "胃胀痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 41,
+        "end": 43,
+        "value": "恶心",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "胃胀痛",
+        "start": 7,
+        "end": 9,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "68岁上半身游走性疼痛双肩疼痛看了中医吃了几幅中药后转移至尾椎骨和胸下侧疼痛上半身游走性疼痛",
+    "entities": [
+      {
+        "start": 9,
+        "end": 11,
+        "value": "疼痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "68",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "疼痛",
+        "start": 9,
+        "end": 11,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "最近发现宝宝脸总是红红的也不是发烧想问一下宝宝脸红红的怎么回事最近发现宝宝脸总是红红的也不是发烧想问一下宝宝脸红红的怎么回事宝宝脸红红的怎么回事",
+    "entities": [
+      {
+        "start": 15,
+        "end": 17,
+        "value": "发烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "value": "脸红",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "发烧",
+        "start": 15,
+        "end": 17,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "失眠多梦失眠多梦失眠多梦失眠多梦",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "失眠",
+        "entity": "symptom"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "value": "多梦",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "失眠",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "多梦",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "失眠",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "多梦",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "精神分裂症后抑郁症常常感觉疲乏敏感多疑却不知道是不是正常自己精神分裂症后抑郁症",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "value": "抑郁",
+        "entity": "symptom"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "value": "疲乏",
+        "entity": "symptom"
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "value": "多疑",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "抑郁",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "疲乏",
+        "start": 13,
+        "end": 15,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "颌下淋巴结肿大会不会是因为挂钩发炎引起的颌下淋巴结肿大",
+    "entities": [
+      {
+        "start": 2,
+        "end": 7,
+        "value": "淋巴结肿大",
+        "entity": "symptom"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "value": "发炎",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "淋巴结肿大",
+        "start": 2,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "乳房乳晕部分好像摸起来有结节乳房瘙痒怎么办",
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "value": "结节",
+        "entity": "symptom"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "value": "瘙痒",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "结节",
+        "start": 12,
+        "end": 14,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "饮水多尿意少",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "多尿",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "医生说可能是由于缺乏维生素D引起的肥胖症那维生素D与肥胖症有什么联系维生素D与肥胖症有什么联系",
+    "entities": [
+      {
+        "start": 17,
+        "end": 19,
+        "value": "肥胖",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "缺乏",
+        "start": 8,
+        "end": 10,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "肥胖",
+        "start": 17,
+        "end": 19,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "9月26号开始起红点恶心呕吐头疼咽喉炎9月26号开始起红点恶心呕吐头疼咽喉炎十周口腔溃疡一直到现在十二周9月26号开始起红点恶心",
+    "entities": [
+      {
+        "start": 10,
+        "end": 12,
+        "value": "恶心",
+        "entity": "symptom"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "value": "头疼",
+        "entity": "symptom"
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "value": "咽喉炎",
+        "entity": "symptom"
+      },
+      {
+        "start": 42,
+        "end": 44,
+        "value": "溃疡",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "恶心",
+        "start": 10,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "头疼",
+        "start": 14,
+        "end": 16,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "咽喉炎",
+        "start": 16,
+        "end": 19,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "其实我一直都有点容易脸红，这个导致我心里抑郁难受",
+    "entities": [
+      {
+        "start": 10,
+        "end": 12,
+        "value": "脸红",
+        "entity": "symptom"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "value": "抑郁",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "脸红",
+        "start": 10,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我儿子蛛网膜囊肿很大后来有次左边头痛发了癫痫肿",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "value": "囊肿",
+        "entity": "symptom"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "value": "头痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "囊肿",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "而且有时候会有点白白的屑和瘙痒的情况我想请问一下身体皮肤干燥是不是鱼鳞病呢身体皮肤干燥是不是鱼鳞病",
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "value": "瘙痒",
+        "entity": "symptom"
+      },
+      {
+        "start": 26,
+        "end": 30,
+        "value": "皮肤干燥",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "白白",
+        "start": 8,
+        "end": 10,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "瘙痒",
+        "start": 13,
+        "end": 15,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "尿痛生殖器上面有水泡尿痛",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "尿痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "value": "水泡",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "尿痛",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "啪啪完后几个小时尿血并且尿频尿急并且尿频尿急同房后尿血尿频尿急是什么原因尿频尿急是什么原因",
+    "entities": [
+      {
+        "start": 8,
+        "end": 10,
+        "value": "尿血",
+        "entity": "symptom"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "value": "尿频",
+        "entity": "symptom"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "value": "尿急",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "尿血",
+        "start": 8,
+        "end": 10,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "扭伤两天了淤青瘀血扭伤两天了淤青瘀血",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "扭伤",
+        "entity": "symptom"
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "value": "瘀血",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "扭伤",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "瘀血",
+        "start": 7,
+        "end": 9,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "扭伤",
+        "start": 9,
+        "end": 11,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "觉得自己有抑郁症胸闷压抑头晕想吐怀疑自己抑郁症怎么办",
+    "entities": [
+      {
+        "start": 5,
+        "end": 7,
+        "value": "抑郁",
+        "entity": "symptom"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "value": "胸闷",
+        "entity": "symptom"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "value": "头晕",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "抑郁",
+        "start": 5,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "头晕",
+        "start": 12,
+        "end": 14,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "呼吸困难咳嗽呼吸困难",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "呼吸困难",
+        "entity": "symptom"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "value": "咳嗽",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "呼吸困难",
+        "start": 0,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "我产后头痛头晕",
+    "entities": [
+      {
+        "start": 1,
+        "end": 5,
+        "value": "产后头痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "value": "头晕",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "产后头痛",
+        "start": 1,
+        "end": 5,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "如果肺结节超过6mm怎么分辨是不是炎性的结节因为之前感冒所以这几天有咳嗽前后胸疼痛才就诊如果肺结节超过6mm",
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "value": "结节",
+        "entity": "symptom"
+      },
+      {
+        "start": 34,
+        "end": 36,
+        "value": "咳嗽",
+        "entity": "symptom"
+      },
+      {
+        "start": 39,
+        "end": 41,
+        "value": "疼痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "结节",
+        "start": 3,
+        "end": 5,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "特别怕冷就这样失眠到天亮怕冷血压高失眠",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "怕冷",
+        "entity": "symptom"
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "value": "失眠",
+        "entity": "symptom"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "value": "血压高",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "怕冷",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "失眠",
+        "start": 7,
+        "end": 9,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "怕冷",
+        "start": 12,
+        "end": 14,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "血压高",
+        "start": 14,
+        "end": 17,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "隔天就腹胀腹痛腹胀腹痛",
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "value": "腹胀",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "腹胀",
+        "start": 3,
+        "end": 5,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "腹痛",
+        "start": 5,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "手臂皮肤痛了几天今天发现长了几个疹子而且有几个小水泡手臂皮肤痛了几天",
+    "entities": [
+      {
+        "start": 2,
+        "end": 5,
+        "value": "皮肤痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "value": "水泡",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "皮肤痛",
+        "start": 2,
+        "end": 5,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "部分病灶无强化边缘见硬化肝脏多发囊肿左肾小囊肿脾大肝脏多发囊肿会引起肝癌吗",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "病灶",
+        "entity": "symptom"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "value": "硬化",
+        "entity": "symptom"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "value": "囊肿",
+        "entity": "symptom"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "value": "脾大",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "病灶",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "硬化",
+        "start": 10,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "囊肿",
+        "start": 16,
+        "end": 18,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "咳嗽没有全是骨转移和脑转移没有全是骨转移和脑转移双侧腹部都有病灶咳嗽",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "咳嗽",
+        "entity": "symptom"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "value": "骨转移",
+        "entity": "symptom"
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "value": "脑转移",
+        "entity": "symptom"
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "value": "病灶",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "咳嗽",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "骨转移",
+        "start": 6,
+        "end": 9,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "脑转移",
+        "start": 10,
+        "end": 13,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "骨转移",
+        "start": 17,
+        "end": 20,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "脑转移",
+        "start": 21,
+        "end": 24,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "遗精遗精",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "遗精",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "遗精",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "遗精",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "频道性头痛头晕有时失眠有时睡眠过多胸闷是抑郁症吗频道性头痛头晕有时失眠有时睡",
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "value": "头痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "value": "头晕",
+        "entity": "symptom"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "value": "失眠",
+        "entity": "symptom"
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "value": "胸闷",
+        "entity": "symptom"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "value": "抑郁",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "头痛",
+        "start": 3,
+        "end": 5,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "头晕",
+        "start": 5,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "抑郁",
+        "start": 20,
+        "end": 22,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "胃痛口干口苦有白苔胃痛口干口苦有白苔胃痛口干口苦有白苔胃痛口干口苦有白苔",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "口干",
+        "entity": "symptom"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "value": "口苦",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "胃痛",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "口干",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "口苦",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "上腹持续疼痛胃疼持续半个月了",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "value": "疼痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "value": "胃疼",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "疼痛",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "说是湿疹现在胀痛无比还发热湿疹胀痛发热",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "value": "胀痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "湿疹",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "胀痛",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "乳房胀痛乳房胀痛肩膀部位刺痛后背也有刺痛乳房胀痛乳房胀痛肩膀部位刺痛",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "乳房胀痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "value": "刺痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "乳房胀痛",
+        "start": 0,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "怀疑自己是不是得了抑郁症多疑怀疑自己是不是得了抑郁症多疑",
+    "entities": [
+      {
+        "start": 9,
+        "end": 11,
+        "value": "抑郁",
+        "entity": "symptom"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "value": "多疑",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "抑郁",
+        "start": 9,
+        "end": 11,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "在一次检查中发现有结节未见胸水症状右肺多发小结节左肺下叶钙化灶",
+    "entities": [
+      {
+        "start": 9,
+        "end": 11,
+        "value": "结节",
+        "entity": "symptom"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "value": "胸水",
+        "entity": "symptom"
+      },
+      {
+        "start": 28,
+        "end": 31,
+        "value": "钙化灶",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "结节",
+        "start": 9,
+        "end": 11,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "胸水",
+        "start": 13,
+        "end": 15,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "肚子痛突然恶露增多恶露增多淡粉色浆状物",
+    "entities": [
+      {
+        "start": 5,
+        "end": 7,
+        "value": "恶露",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "肚子痛",
+        "start": 0,
+        "end": 3,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "恶露",
+        "start": 5,
+        "end": 7,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "幻觉幻听是精神分裂症的主要症状猜疑紧张呆滞健忘人际关系紧张",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "幻觉",
+        "entity": "symptom"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "value": "幻听",
+        "entity": "symptom"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "value": "猜疑",
+        "entity": "symptom"
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "value": "紧张",
+        "entity": "symptom"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "value": "呆滞",
+        "entity": "symptom"
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "value": "健忘",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "幻觉",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "幻听",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "呆滞",
+        "start": 19,
+        "end": 21,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "健忘",
+        "start": 21,
+        "end": 23,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "再到大腿全身疼痛现在全身疼痛无力现在全身疼痛无力全身疼痛特别是做过理疗之后",
+    "entities": [
+      {
+        "start": 6,
+        "end": 8,
+        "value": "疼痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "value": "无力",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "疼痛",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "胸口发闷打嗝是怎么回事胸口发闷打嗝是怎么回事",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "value": "打嗝",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "发闷",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "打嗝",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "8月10日发现左臂及左后背皮肤疼痛按摩拔罐贴膏药后均不见疼痛减轻14日出现小疱疹左后背出现大面积疱疹带状疱疹如何彻底治愈",
+    "entities": [
+      {
+        "start": 15,
+        "end": 17,
+        "value": "疼痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 38,
+        "end": 40,
+        "value": "疱疹",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "皮肤疼痛",
+        "start": 15,
+        "end": 17,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "社交恐惧社交恐惧心慌但我控制不住就觉得恐惧心慌但我控制不住就觉得恐惧心慌社交恐惧社交恐惧",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "社交恐惧",
+        "entity": "symptom"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "value": "心慌",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "社交恐惧",
+        "start": 0,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "近来情绪低落还有点焦虑咨询心理障碍导致失眠会有怎样表现心理障碍导致失眠会有怎样表现",
+    "entities": [
+      {
+        "start": 2,
+        "end": 6,
+        "value": "情绪低落",
+        "entity": "symptom"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "value": "焦虑",
+        "entity": "symptom"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "value": "失眠",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "情绪低落",
+        "start": 2,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "焦虑",
+        "start": 9,
+        "end": 11,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "孩子每天晚上皮肤瘙痒的没有办法休息孩子每天晚上皮肤瘙痒的没有办法休息小儿痒疹控制不住怎么办小儿痒疹控制不住怎么办",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "value": "皮肤瘙痒",
+        "entity": "symptom"
+      },
+      {
+        "start": 34,
+        "end": 38,
+        "value": "小儿痒疹",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "皮肤瘙痒",
+        "start": 6,
+        "end": 10,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "肚脐痉挛疼疼了一阵就正常了肚脐痉挛疼疼了一阵就正常了",
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "value": "痉挛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "痉挛",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "疼疼",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "说我有抑郁症和焦虑症说我有抑郁症和焦虑症说我有抑郁症和焦虑症说我有抑郁症和焦虑症",
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "value": "抑郁",
+        "entity": "symptom"
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "value": "焦虑",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "抑郁",
+        "start": 3,
+        "end": 5,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "多梦夜里口干多梦",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "多梦",
+        "entity": "symptom"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "value": "口干",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "多梦",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "口干",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "多梦",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "病人有忧郁症病史1999年得忧郁症镇医院医生怀疑是子宫下垂引起尿道阻塞病人有忧郁症病史",
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "value": "忧郁",
+        "entity": "symptom"
+      },
+      {
+        "start": 25,
+        "end": 29,
+        "value": "子宫下垂",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "忧郁",
+        "start": 3,
+        "end": 5,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "1999",
+        "start": 8,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "最近经常嗜睡那嗜睡情况比较严重该怎么办呢嗜睡情况比较严重怎么办",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "value": "嗜睡",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "嗜睡",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "嗜睡",
+        "start": 7,
+        "end": 9,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "尿频小便有灼烧感会是糖尿病前兆吗清晨口干舌涩",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "尿频",
+        "entity": "symptom"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "value": "糖尿",
+        "entity": "symptom"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "value": "口干",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "尿频",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "糖尿",
+        "start": 10,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "很怕脏多疑强迫症怕脏多疑是什么原因强迫症怕脏多疑是什么原因",
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "value": "多疑",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "多疑",
+        "start": 3,
+        "end": 5,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "多疑",
+        "start": 10,
+        "end": 12,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "这种情况说是病毒感染引起的扁桃体发炎化脓这种情况说是病毒感染引起的扁桃体发炎化脓浑身会冒虚汗扁桃体发炎化脓扁桃体发炎化脓",
+    "entities": [
+      {
+        "start": 13,
+        "end": 18,
+        "value": "扁桃体发炎",
+        "entity": "symptom"
+      },
+      {
+        "start": 44,
+        "end": 46,
+        "value": "虚汗",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "扁桃体发炎",
+        "start": 13,
+        "end": 18,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "12月5号：轻微咳嗽（有痰）<br/>12月6号：轻微咳嗽（有痰）+睡觉及起床前后咳的较厉害+打喷嚏流清鼻涕+轻微喘息<br/>12月6号：轻微咳嗽（有痰）+睡觉及起床前后咳的较厉害+打喷嚏流清鼻涕+轻微喘息<br/>12月6号：轻微咳嗽（有痰）+睡觉及起床前后咳的较厉害+打喷嚏流清鼻涕+轻微喘息<br/>12月7号：轻微咳嗽（有痰）+睡觉及起床前后咳的较厉害+打喷嚏流清鼻涕+喘的厉害/>12月7号：轻微咳嗽（有痰）+睡觉及起床前后咳的较厉害+打喷嚏流清鼻涕+喘的厉害痰吐不出来犯恶心7号晚上开始发烧/>12月8号：轻微咳嗽（有痰）+睡觉及起床前后咳的较厉害+打喷嚏流清鼻涕+喘的厉害+白天低烧（晚上已退烧）<br/>12月8号：轻微咳嗽（有痰）+睡觉及起床前后咳的较厉害+打喷嚏流清鼻涕+喘的厉害+白天低烧（晚上已退烧）<br/>12月8号：轻微咳嗽（有痰）+睡觉及起床前后咳的较厉害+打喷嚏流清鼻涕+喘的厉害+白天低烧（晚上已退烧）<br/>12月9号：咳嗽加剧（喉咙依然有痰）其他症状有所好转（未发烧目前的咳嗽说明病清有所好转还是更加严重2岁宝宝发烧后咳嗽加剧是什么情况2岁宝宝发烧后咳嗽加剧是什么情况",
+    "entities": [
+      {
+        "start": 8,
+        "end": 10,
+        "value": "咳嗽",
+        "entity": "symptom"
+      },
+      {
+        "start": 47,
+        "end": 50,
+        "value": "打喷嚏",
+        "entity": "symptom"
+      },
+      {
+        "start": 57,
+        "end": 59,
+        "value": "喘息",
+        "entity": "symptom"
+      },
+      {
+        "start": 242,
+        "end": 244,
+        "value": "恶心",
+        "entity": "symptom"
+      },
+      {
+        "start": 250,
+        "end": 252,
+        "value": "发烧",
+        "entity": "symptom"
+      },
+      {
+        "start": 297,
+        "end": 299,
+        "value": "低烧",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "咳嗽",
+        "start": 8,
+        "end": 10,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "打喷嚏",
+        "start": 47,
+        "end": 50,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "头晕失眠嗜睡头晕失眠嗜睡",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "头晕",
+        "entity": "symptom"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "value": "失眠",
+        "entity": "symptom"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "value": "嗜睡",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "头晕",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "失眠",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "胃疼恶心口干口苦口干口苦恶心口干口苦口干口苦",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "胃疼",
+        "entity": "symptom"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "value": "恶心",
+        "entity": "symptom"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "value": "口干",
+        "entity": "symptom"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "value": "口苦",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "胃疼",
+        "start": 0,
+        "end": 2,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "恶心",
+        "start": 2,
+        "end": 4,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "口干",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "时常出现幻觉没有思想意识就像梦游一样时常出现幻觉",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "value": "幻觉",
+        "entity": "symptom"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "value": "梦游",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "幻觉",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "无尿频无尿频尿急尿不尽阴茎左上方和左腿内侧连接的地方疼痛",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "无尿频",
+        "entity": "symptom"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "value": "尿急",
+        "entity": "symptom"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "value": "尿不尽",
+        "entity": "symptom"
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "value": "疼痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "尿频",
+        "start": 1,
+        "end": 3,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "尿频",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "尿急",
+        "start": 6,
+        "end": 8,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      },
+      {
+        "value": "尿不尽",
+        "start": 8,
+        "end": 11,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "心窝时常刺痛有时候是饿了就刺痛也有时候吃了饭后疼痛心窝时常刺痛",
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "value": "刺痛",
+        "entity": "symptom"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "value": "疼痛",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "刺痛",
+        "start": 4,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "每天早晨起来浑身无力稍微有点每天早晨起来浑身无力稍微有点心慌每天早晨起来浑身无力",
+    "entities": [
+      {
+        "start": 8,
+        "end": 10,
+        "value": "无力",
+        "entity": "symptom"
+      },
+      {
+        "start": 28,
+        "end": 30,
+        "value": "心慌",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "无力",
+        "start": 8,
+        "end": 10,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "这两天肚子疼，尤其吃完饭，应该是胃疼怎么办。",
+    "entities": [
+      {
+        "start": 3,
+        "end": 6,
+        "value": "肚子疼",
+        "entity": "symptom"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "value": "胃疼",
+        "entity": "symptom"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "value": "肚子疼",
+        "start": 3,
+        "end": 6,
+        "entity": "symptom",
+        "extractor": "BilstmCRFEntityExtractor"
+      }
+    ]
+  }
+]

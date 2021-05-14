@@ -1,0 +1,10 @@
+[
+  {
+    "text": "你是不是傻",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "chitchat",
+      "confidence": 0.6212371587753296
+    }
+  }
+]

@@ -1,0 +1,29 @@
+language: zh
+pipeline:
+  - name: "JiebaTokenizer"
+    dictionary_path: "external_data/lookup"
+  - name: "RegexFeaturizer"
+  - name: "CRFEntityExtractor"
+#    max_iterations: 150
+  - name: "EntitySynonymMapper"
+  - name: "CountVectorsFeaturizer"
+  - name: "CountVectorsFeaturizer"
+    analyzer: "char_wb"
+    min_ngram: 1
+    max_ngram: 4
+  - name: "EmbeddingIntentClassifier"
+    epochs: 120
+    droprate: 0.1
+
+policies:
+  - name: EmbeddingPolicy
+    max_history: 5
+    epochs: 50
+  - name: MemoizationPolicy
+    max_history: 5
+  - name: FallbackPolicy
+    nlu_threshold: 0.4
+    core_threshold: 0.3
+    fallback_action_name: 'action_default_fallback'
+  - name: MappingPolicy
+
