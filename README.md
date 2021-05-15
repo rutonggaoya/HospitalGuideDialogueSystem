@@ -19,10 +19,10 @@ python server.py
 
 ### API调用：
 请求格式 GET http://127.0.0.1:8088/ai?content=用户语句
-``` json
+```
 响应数据格式
 {
-    type:"text"/"sex"/"age", // 代表消息内容的类型
+    type:["text"|"sex"|"age"], // 代表消息内容的类型
     text:"xxxx"              // 导诊系统返回的信息
 }
 ```
